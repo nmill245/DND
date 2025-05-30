@@ -67,3 +67,4 @@
 # Making it to town
     We get checked by the guards and convince them we don't have a dragon egg. Make it town okay
     We are able to keep the egg and make it into the city.
+    Commune of Thalgorath would take a dragon egg in the black market, dangerous to get to though
