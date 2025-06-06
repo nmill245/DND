@@ -64,3 +64,4 @@ Halfling is getting punished and will be executed soon because mages run the cit
 Silver dagger is able to keep the undead away
 We do not steal the dagger... too much risk associated for not enough benefit
 Would have died. We bought the dagger instead
+The job that could have been done for Thorn, he is dead. No pickup possible
