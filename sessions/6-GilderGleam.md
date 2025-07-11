@@ -24,7 +24,7 @@ Underneath the floorboards what is found is:
 
 Taking time for a rest at the tree. Fixing up the shrines door, making it very pretty and precious.
 Cozy little sleepover in a shrine near the GilderGleam
-Spotted a humanoid figure in a witches hat with glowing eyes... picking things out of their nails. They smile / smirk at Vale. They fall behind a branch and disappear
+Spotted a humanoid figure in a witches hat with glowing eye (right eye)... picking skin out of their nails. They smile / smirk at Vale. They fall behind a branch and disappear
 
 # Travel
 Stop into grandmas house... seems to be trouble and we hear a bell ringing
