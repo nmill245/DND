@@ -100,3 +100,4 @@ Gust travels down and gets grappled by a Kobolt ... may be a problem
 Fizbit gets sneak attacked, shields, and then attacks back killing a Kobolt
 Gust is stable but very very injured.
 
+Dragon egg is now ashy grey
