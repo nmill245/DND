@@ -19,6 +19,7 @@ Lifts up and inspects the book, nods and smiles about it.
 Locks the book up in the grandfather clock. 
 Man is attempting to understand the rights of people / political power. Attempting to stop the "corruption" or other truths in the city. Refers to the book as Reciepts, is a ledger of sorts. Important ledgers that would be burned if a town were to fall
 Heric Thorn has other quests if we so choose
+
 # End of Quest / Shopping
 We will go shopping / looking for things
 We all go shopping for daggers / thieves tools / other stuff
@@ -63,5 +64,5 @@ Gust and Merrick distract the store owner by asking questions about the other si
 Halfling is getting punished and will be executed soon because mages run the city
 Silver dagger is able to keep the undead away
 We do not steal the dagger... too much risk associated for not enough benefit
-Would have died. We bought the dagger instead
+Would have died. We bought the dagger instead (Gust owes me 24 GP)
 The job that could have been done for Thorn, he is dead. No pickup possible

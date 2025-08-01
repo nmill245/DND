@@ -57,7 +57,7 @@ She goes up to the shrine at the gildergleam when possible
 Grandma brings a pie even after getting injured for Townmaster Greylan
 Greylan talks about the Kobolts and how they have vicious weapons... and that he is worried
 Grandma was beaten up by some thugs who broke into her house... they were strange (armors and furs and looked like soldiers)
-The thugs / the bells from the thu...gs do not seem to be around right now, only having to deal with animals so far.
+The thugs / the bells from the thugs do not seem to be around right now, only having to deal with animals so far.
 Grandma rests at the townmasters place.
 Nail leaves after Grandma is given the room to sleep
 Goes back to sleep after
