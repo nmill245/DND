@@ -1,68 +1,69 @@
-# Entering Town
-Fizbit's dog wants to enter town but the guard is not loving it. 
-Guard is not fucking with the dog
-Fizbit must pay 4 GP for the dog to get entry. Fizbit gets a ticket thing for it
-May follow Dennis going to Mr. Thorn for payment
-May also sep to find other things
-Enter the NE enterence to Minthala
-We all follow Dennis for the rewards for the Quest
-Not many outside as it is cold and snowy, there does seem to be a gathering though in the church with children having a snowball fight
-Few blocks past the church is a well built set of houses
-Wait outside for the GP from Dennis / the drop off
-Nail and Merrick follow Dennis inside, everyone else waits outside
-Small, humble abode. There is a spiral staircase in the back creating a tower. 2-3 stories
-We both just sit inside the abode. Rough leather couch. We wait by candle light.
-Well dressed but potentially not as well fed / well off as other clients
-Dark brown hair, yellowish button-up with cufflings. Man of pure business. <- Heric Thorn
-Gives a warm smile of hardwork / hardship while not dressed to match.
-Lifts up and inspects the book, nods and smiles about it.
-Locks the book up in the grandfather clock. 
-Man is attempting to understand the rights of people / political power. Attempting to stop the "corruption" or other truths in the city. Refers to the book as Reciepts, is a ledger of sorts. Important ledgers that would be burned if a town were to fall
-Heric Thorn has other quests if we so choose
+## Entering Town
+- Fizbit's dog wants to enter town but the guard is not loving it. 
+- Guard is not fucking with the dog
+- Fizbit must pay 4 GP for the dog to get entry. Fizbit gets a ticket thing for it
+- May follow Dennis going to Mr. Thorn for payment
+- May also sep to find other things
+- Enter the NE enterence to Minthala
+- We all follow Dennis for the rewards for the Quest
+- Not many outside as it is cold and snowy, there does seem to be a gathering though in the church with children having a snowball fight
+- Few blocks past the church is a well built set of houses
+- Wait outside for the GP from Dennis / the drop off
+- Nail and Merrick follow Dennis inside, everyone else waits outside
+- Small, humble abode. There is a spiral staircase in the back creating a tower. 2-3 stories
+- We both just sit inside the abode. Rough leather couch. We wait by candle light.
+- Well dressed but potentially not as well fed / well off as other clients
+- Dark brown hair, yellowish button-up with cufflings. Man of pure business. <- Heric Thorn
+- Gives a warm smile of hardwork / hardship while not dressed to match.
+- Lifts up and inspects the book, nods and smiles about it.
+- Locks the book up in the grandfather clock. 
+- Man is attempting to understand the rights of people / political power. Attempting to stop the "corruption" or other truths in the city. Refers to the book as Reciepts, is a ledger of sorts. Important ledgers that would be burned if a town were to fall
+- Heric Thorn has other quests if we so choose
 
-# End of Quest / Shopping
-We will go shopping / looking for things
-We all go shopping for daggers / thieves tools / other stuff
-Creature attempts to grab Joker off of Gust's shoulder, Gust hits it with his quarterstaff,
-Val is the leader looking for stores. Fizbit wants a general store.
-Two options for shops (Beggars market NW vs. BrightSwordWard SW)
-Head to the beggars market first, find a colissieum (The Arena)
-Nail attempts to (and fails) to take parts of Thieves tools, instead pays 35 GP for it.
-Fizbit buys 10 GP of Tinkerers supplies
-Fizbit buys a dagger for 4 GP - Woodcarved Mahogony hilt, Fresh Steel blade. Not curved but tapered with an indentation towards the hit
-Fizbit asks to sell the wand for 6 GP attempts to haggle to 8... fails. Sells it for 6.
-Fizbit offers to sell the staff for 3 GP and it works
+## End of Quest / Shopping
 
-Books:
-1 - Louise Fellsmith a/b a girl and her lucky hairpin
-2 - What gathers in the smoke trails
-3 - The fell-spindrels of our world (15 GP) [Bought by me] By Princeton Virgil Habermeyer of the Azinar Research and Acquisitions Department
-4 - A compelition of Road Wardens and what they have sighted
-A dragonborn is there, and walks out with a grumble. They have strange glass like horns
-People seem to be stealing things but we ignore it going to the fancy shop instead.
-Gust finds very fancy and very expensive daggers
-Gust inquires on the daggers more expensive one is magical but unsure what exactly find out from another worker it is a +1 dagger
-Fizbit sells scroll of Jump for 45 GP
-Gust leaves for another shop
-Fizbit and Val go and check out armor for Scale-Mail and other armor types
-Fizbit begs Val to get armor, Val wants the vibes to be consistent though...
-With some coerision and mods Val will wear the armor
-Gust gets hit with a rope and barely survives as a dwarf smashes the pavement following the path of the rope. 
-Rope seems to fall down from the middle of the sky onto the now prone dwarf
-Dwarf damns a witch to hell. Continent of Irrevra, Principality of Iredellia; Kingdom of Ladamia. 
-Cure Wounds failed. It failed because they seem to be undead. Attempting to go Banehold on the Southern coast
-It is a dwarven Ghoul. Attempts to gift a dwarven handaxe, Fizbit takes it and gives it to Val
-We will attempt to steal the dagger from the store and not get caught.
-Guards post up as we wait
-Fizbit attempts to predict the weather [Snow, Snow, Sun, Sun]
-Fizbit is tinkering
-, Merrick is reading
-, Nail is checking for cops finds 9 of them and then sneaks out. Nail asks Merrick to come out with him which after taking some drugs Merrick agrees. Nail and Merrick are able to make it out
-The guards clear out and we sleep in the tavern
-We wake up, get some food and prepare to rob the store
-Gust and Merrick distract the store owner by asking questions about the other silver dagger. We walk up to the front desk and ask so many questions
-Halfling is getting punished and will be executed soon because mages run the city
-Silver dagger is able to keep the undead away
-We do not steal the dagger... too much risk associated for not enough benefit
-Would have died. We bought the dagger instead (Gust owes me 24 GP)
-The job that could have been done for Thorn, he is dead. No pickup possible
+- We will go shopping / looking for things
+- We all go shopping for daggers / thieves tools / other stuff
+- Creature attempts to grab Joker off of Gust's shoulder, Gust hits it with his quarterstaff,
+- Val is the leader looking for stores. Fizbit wants a general store.
+- Two options for shops (Beggars market NW vs. BrightSwordWard SW)
+- Head to the beggars market first, find a colissieum (The Arena)
+- Nail attempts to (and fails) to take parts of Thieves tools, instead pays 35 GP for it.
+- Fizbit buys 10 GP of Tinkerers supplies
+- Fizbit buys a dagger for 4 GP - Woodcarved Mahogony hilt, Fresh Steel blade. Not curved but tapered with an indentation towards the hit
+- Fizbit asks to sell the wand for 6 GP attempts to haggle to 8... fails. Sells it for 6.
+- Fizbit offers to sell the staff for 3 GP and it works
+
+- Books:
+- 1 - Louise Fellsmith a/b a girl and her lucky hairpin
+- 2 - What gathers in the smoke trails
+- 3 - The fell-spindrels of our world (15 GP) [Bought by me] By Princeton Virgil Habermeyer of the Azinar Research and Acquisitions Department
+- 4 - A compelition of Road Wardens and what they have sighted
+- A dragonborn is there, and walks out with a grumble. They have strange glass like horns
+- People seem to be stealing things but we ignore it going to the fancy shop instead.
+- Gust finds very fancy and very expensive daggers
+- Gust inquires on the daggers more expensive one is magical but unsure what exactly find out from another worker it is a +1 dagger
+- Fizbit sells scroll of Jump for 45 GP
+- Gust leaves for another shop
+- Fizbit and Val go and check out armor for Scale-Mail and other armor types
+- Fizbit begs Val to get armor, Val wants the vibes to be consistent though...
+- With some coerision and mods Val will wear the armor
+- Gust gets hit with a rope and barely survives as a dwarf smashes the pavement following the path of the rope. 
+- Rope seems to fall down from the middle of the sky onto the now prone dwarf
+- Dwarf damns a witch to hell. Continent of Irrevra, Principality of Iredellia; Kingdom of Ladamia. 
+- Cure Wounds failed. It failed because they seem to be undead. Attempting to go Banehold on the Southern coast
+- It is a dwarven Ghoul. Attempts to gift a dwarven handaxe, Fizbit takes it and gives it to Val
+- We will attempt to steal the dagger from the store and not get caught.
+- Guards post up as we wait
+- Fizbit attempts to predict the weather [Snow, Snow, Sun, Sun]
+- Fizbit is tinkering
+- , Merrick is reading
+- , Nail is checking for cops finds 9 of them and then sneaks out. Nail asks Merrick to come out with him which after taking some drugs Merrick agrees. Nail and Merrick are able to make it out
+- The guards clear out and we sleep in the tavern
+- We wake up, get some food and prepare to rob the store
+- Gust and Merrick distract the store owner by asking questions about the other silver dagger. We walk up to the front desk and ask so many questions
+- Halfling is getting punished and will be executed soon because mages run the city
+- Silver dagger is able to keep the undead away
+- We do not steal the dagger... too much risk associated for not enough benefit
+- Would have died. We bought the dagger instead (Gust owes me 24 GP)
+- The job that could have been done for Thorn, he is dead. No pickup possible
