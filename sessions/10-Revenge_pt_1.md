@@ -1,13 +1,21 @@
 ## Val Perspective
 
 Val feels a cold in her bones. 
-    A soul out in the wilderness alone. 
-    The jaws of life closing around her.
+
+A soul out in the wilderness alone. 
+
+The jaws of life closing around her.
+
 Val feels a breeze that is not warm or kind, but does exist...
+
 Val is being warmed but far away from the enterance, there is a wind pulling her back into the snow... not to safety
+
 Sees a 4 eyed being that feeds on your meaning not your life... Nods once at you as a hunters respect.
+
 Val awakens and is chained to a mast, the heat of a real fire licking at her skin. The cold seems more comforting than the heat at this point
+
 Val is in a smallish chamber that is held up by wooden supports. Near some hay / grass while chained against a mast stuck into the ground and ceiling.
+
 There are two other individuals with her, an elderly man with grey robes and a auburn haired woman with grey streaks that does not have their mouth bound.
 There are 2 Kobolts on watch next to the fire, not really watching Val though but rather prodding at food.
 Both are beaten and not looking great... Val has her arms behind her chained. The mans mouth is bound.
