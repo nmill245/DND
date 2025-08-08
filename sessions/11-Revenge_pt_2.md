@@ -1,0 +1,26 @@
+## Continued Cavern
+
+- Full combat session... yikes
+- Enter Cavern and from one of the first steps, fizbit almost gets crushed by a rock. 
+- There are holes in the ceiling they drop rocks from... causing problems
+- Use a hood filled with straw under the hole... throw a rock back up at the Kobolt and crits.
+- Continue trying but rocks no longer fall
+- Fizbit opens a stupid barrel that contains poisonous gas... yikes
+- Gust wants help from Nail... but there is tension so Nail refuses
+- Gust is now on fire with greek fire as he gets hit with oil and fire after casting spike growth at a hole
+- Fizbit is stuck from the fire
+- Nail is climbing walls to escape the fire
+- Val is away hearing out screams
+- Merrick has nothing to do so stands in front of the fire dodging
+- Gust is still on fire... and has disappeared somewhere; succeeds concentration and is no longer on fire
+- Fizbit walks through the flames only to get shot in the back by a Kobolt
+- Merrick fails at hitting any Kobolt... but is able to heal Fizbit a bit
+- Nail kills another
+- Val rages and gets out of her bonds
+- Merrick runs through the flames away from the Kobolt
+- Shit is happening over with Val... Val got free, killed a Kobolt. 
+- Gust opened a chest and insects are now swarming him
+- A lot of shit is happening... but overall recovery is happening.
+- Val was saved, Gust is healing, Merrick is out of spells and with Val / healing
+- Attempting to go get Fizbit... and then Val gets trapped and gets stabbed, a lot...
+- Our helper friends also get trapped and stabbed and just awful time
