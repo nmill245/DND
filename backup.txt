@@ -1,0 +1,6 @@
+Lunar Sorcery (The moon is very different in this world) Sorcerer.
+	11, 13, --15, --14, 13, --17
+
+Mountain Dwarf;
+
+
