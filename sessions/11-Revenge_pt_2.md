@@ -10,7 +10,7 @@
 - Gust is now on fire with greek fire as he gets hit with oil and fire after casting spike growth at a hole
 - Fizbit is stuck from the fire
 - Nail is climbing walls to escape the fire
-- Val is away hearing out screams
+- Val is away hearing our screams
 - Merrick has nothing to do so stands in front of the fire dodging
 - Gust is still on fire... and has disappeared somewhere; succeeds concentration and is no longer on fire
 - Fizbit walks through the flames only to get shot in the back by a Kobolt
