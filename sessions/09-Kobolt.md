@@ -6,7 +6,7 @@
 
 ## Nail Adventure
 
-- Nail ventures off to explore and sneak through the town, looking through the windows of houses and stuff
+- Nail ventures off to explore and sneak through the town, looking through the windows of houses and stuff-
 - A lot of people inside, not a lot of people outside... just snooping around without much focus. Does not find anything of value
 
 ## Val Adventure

@@ -44,7 +44,7 @@ directions to
 - Val is posioned... that is purpleish in color but unsure how exactly to help.
 - Need antivenom or charcoal or smth to help absorb the posion
 - Merrick and Val chat for a bit...
-- Val is gonna like ke ep to herself and be lost in thought
+- Val is gonna like keep to herself and be lost in thought
 - Talk with Nail and Fizbit although Fizbit just seems to be tinkering like normal
 and Nail says hes okay
 - Merrick and Nail catch up. Nail yells at Fizbit but no reaction comes from Nail
