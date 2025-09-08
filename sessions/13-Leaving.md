@@ -10,7 +10,7 @@
 - We try to talk to the townmaster... no one responds
 - We need the townmaster so we can get paid...
 - Heading to the tavern to get gold for rabbits again maybe
-- Get gold for planting a nonmagical box under a dorm
+- Get gold for planting a nonmagical box under a tree
 - Merrick read a book
     - "What, then, is an Aether Shard? We may declare it no mere mineral. It is a bead of collision, where primal Chaos hammers against the lattice of Order, the impact caught in stasis. Each Shard is less a jewel than a battery, a cell in which corruption itself has been preserved like a fossil. It is an object driven not by design but by entropy, a knot of instability caged within an accidental cage.
     - Within these crystalline hosts appear structures of a perplexing nature, filaments and fissures, web-like spindles that no quarrying tool nor geological pressure could yield. I name their makers the Spindrels: fell artificers not of stone but of fracture. Their webs are not the residue of creation but its sabotage, for they appear where order meets strain, where structure is forced to bear what it cannot. They are parasites upon the concept of stability itself, never shaping from nothing but always prying at what already exists.
