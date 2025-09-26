@@ -39,7 +39,7 @@
 ## Fizbit and Gust Cave Adventure
 
 - There are black feathers at the opening of the cave. It is a medium sized opening
-- There are 7 black feathers and one white feather with a brown end of the feather
+- There are 6 black feathers and one white feather with a brown end of the feather
 - There is a destroyed child toy, destroy child doll, and destroyed spyglass
 - There is a dead end in the cave. It appears to be a habitation at some point but nothing right now
 - They exit out of the other exit
