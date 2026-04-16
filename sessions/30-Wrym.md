@@ -33,3 +33,4 @@
 - Perils parts contain most of the parts of Mekhane.
 - Pilgramiges to the blizzard to find pieces of Mekhane; (The start of the journey to the blizzard)
 - Intention matters; Mekhane may not guide unless going out for that reason
+
