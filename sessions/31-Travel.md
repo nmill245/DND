@@ -6,7 +6,9 @@
 - Skykin -> otherkind; less of actual dwarves
 - High likelihood that they don't care about LaStarr b/c its above ground (not their problem unless it is though...) -> find evidence of Kobolds :3
 - There is a hold around Cerces Domain; Splits Iridellia at one of the thirds point. Ruled by an elf not a dwarf king
-- Elf King = Cacame Awemedinade; Joined the dwarves to kill all elves, and now here he is
+- Elf King = Cacame Awemedinade; Joined the dwarves to kill all elves, and now here he is; They have a cousel as well
+- Dwarven High King - Graydinn Castlecrown
+    - Resides in the central heartlands of Iridellia (One of the countries on the southern border of Ladamia (not primoridiala))
 - They use the mountains to their advantage (like architecture and stuff)
 - Use "Warden's Hammer" to create rock falls from ceilings to kill all creatures in a cavern -> Dwarven only, incredibly descructive
 - Make deals not with cities but with individuals. Don't want to interfere with skyfolk politic
@@ -16,6 +18,6 @@
 ## Religion of the Dwarves
 - Two Reigions; 
     - The gods
-        - Armok -> chaotic evil; Represents failed engineering, murpheys law engineering principle. Causes murphey law 
+        - Armok -> chaotic evil; causes failed engineering, murpheys law engineering principle. No Locational data
         - Mordain -> Lawful good; In Mount Celestia called DwarfHome; Is a celestial
     - Dwarves of note become ancestors to become spears for specifically the stonekin.
