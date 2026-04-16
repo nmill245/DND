@@ -13,3 +13,8 @@
 - Must show might, prowess, intelligence, or <ins>shared interest</ins>
 - Are able to be called stonekin, takes a lot though
 
+## Religion of the Dwarves
+- Two Reigions; 
+        - Armok -> chaotic evil; Represents failed engineering, murpheys law engineering principle. Causes murphey law 
+        - Mordain -> Lawful good; In Mount Celestia called DwarfHome; Is a celestial
+    - Dwarves of note become ancestors to become spears for specifically the stonekin.
