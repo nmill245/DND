@@ -15,6 +15,7 @@
 
 ## Religion of the Dwarves
 - Two Reigions; 
+    - The gods
         - Armok -> chaotic evil; Represents failed engineering, murpheys law engineering principle. Causes murphey law 
         - Mordain -> Lawful good; In Mount Celestia called DwarfHome; Is a celestial
     - Dwarves of note become ancestors to become spears for specifically the stonekin.
