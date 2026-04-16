@@ -10,4 +10,6 @@
 - They use the mountains to their advantage (like architecture and stuff)
 - Use "Warden's Hammer" to create rock falls from ceilings to kill all creatures in a cavern -> Dwarven only, incredibly descructive
 - Make deals not with cities but with individuals. Don't want to interfere with skyfolk politic
-- Must show might, prowess, intelligence, or <u>shared interest</u>
+- Must show might, prowess, intelligence, or <ins>shared interest</ins>
+- Are able to be called stonekin, takes a lot though
+
